@@ -8,7 +8,7 @@ public class Day8 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        int n = Integer.valueOf(scanner.nextLine());
+        // int n = Integer.valueOf(scanner.nextLine());
         Map<String, String> phonebook = new HashMap<>();
         List<String> queries = new ArrayList<>();
         
